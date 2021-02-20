@@ -1,2 +1,2 @@
 # kkBox-music-recommendation
-Music Recommendation
+Music Recommendation System
